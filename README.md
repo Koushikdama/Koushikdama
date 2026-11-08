@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/dama-koushik-656396286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:koushikdama5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://koushikdama.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.instagram.com/koushik_dama_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ## About
