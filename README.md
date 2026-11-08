@@ -58,7 +58,3 @@ More in my [repositories](https://github.com/Koushikdama?tab=repositories).
 - Building the reactive services of ShopMCP one by one (user-service in progress).
 - Going deeper on Spring AI: tool calling, MCP transports, and guarding LLM actions with the caller's permissions.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koushikdama&show_icons=true&hide_border=true&hide=stars&count_private=true" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koushikdama&layout=compact&hide_border=true&langs_count=6" alt="Top languages" height="160">
-</p>
